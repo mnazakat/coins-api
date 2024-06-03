@@ -67,7 +67,6 @@ Get Transactions by User ID
 
 URL: /transactions/:userId
 Method: GET
-
 curl -X GET http://localhost:3000/transactions/1
 
 
@@ -81,6 +80,7 @@ curl -X GET http://localhost:3000/transactions/status/active
 
 
 Get All Transactions
+
 URL: /transactions
 Method: GET
 cURL Command:
